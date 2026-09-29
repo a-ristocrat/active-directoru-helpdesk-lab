@@ -2,7 +2,7 @@
 
 A hands-on Windows Server lab built to practice real-world IT support tasks: user account management, password resets, account lockouts, onboarding/offboarding, file share permissions, and Group Policy troubleshooting.
 
-**Author:** Tania Tolstykh
+**Author:** Andrii Khmelevskyi
 
 ## Skills Demonstrated
 
